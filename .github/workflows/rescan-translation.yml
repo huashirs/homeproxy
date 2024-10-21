@@ -39,3 +39,4 @@ jobs:
           git add .
           git commit -m "chore(po): rescan translation"
           git push -f origin HEAD:po
+
